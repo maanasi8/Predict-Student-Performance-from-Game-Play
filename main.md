@@ -1,6 +1,7 @@
 # Predict Student Performance from Game Play
 ## *Trace student learning from Jo Wilder online educational game*
-[Kaggle link](https://www.kaggle.com/competitions/predict-student-performance-from-game-play)
+[Kaggle Challenge link](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview)\
+The dataset is based on the game [Jo Wilder and the Capital Chase](https://pbswisconsineducation.org/jowilder/play-the-game/)
 ### Goal of the Competition
 The goal of this competition is to predict student performance during game-based learning in real-time. We'll develop a model trained on one of the largest open datasets of game logs.
 ### Dataset Description
