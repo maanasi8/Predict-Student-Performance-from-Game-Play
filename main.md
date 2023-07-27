@@ -40,4 +40,5 @@ text_fqid - the fully qualified ID of the\
 fullscreen - whether the player is in fullscreen mode\
 hq - whether the game is in high-quality\
 music - whether the game music is on or off\
-level_group - which group of levels - and group of questions - this row belongs to (0-4, 5-12, 13-22)
+level_group - which group of levels - and group of questions - this row belongs to (0-4, 5-12, 13-22)\
+Our kaggle [notebook](https://www.kaggle.com/code/floatee/first-notebook-trail?scriptVersionId=137586549)
